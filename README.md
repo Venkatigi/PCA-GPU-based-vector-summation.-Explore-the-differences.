@@ -28,11 +28,13 @@ Finally Free device global memory,host memory and reset device.
 Save and Run the Program.
 
 ## Program:
+```python
+### Devepoled By    : Venkatesh E
+### Register Number : 212221230119
+```
 
 ## (i) block.x=1023
-```
-Name : KRISHNA PRAKAASH D M
-Register No : 212221230052
+```c
 
 #include "common.h"
 #include <cuda_runtime.h>
@@ -185,9 +187,7 @@ int main(int argc, char **argv)
 }
 ```
 ## block.x = 1024
-```
-Name : KRISHNA PRAKAASH D M
-Register No : 212221230052
+```c
 
 #include "common.h"
 #include <cuda_runtime.h>
@@ -341,9 +341,7 @@ int main(int argc, char **argv)
 ```
 
 ## (ii) block.x = 256
-```
-Name : KRISHNA PRAKAASH D M
-Register No : 212221230052
+```c
 
 #include "common.h"
 #include <cuda_runtime.h>
